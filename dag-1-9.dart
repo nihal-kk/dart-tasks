@@ -1,5 +1,5 @@
 void main() {
-  const days = 7;
+  const days = 711;
   print(days);
 }
 \\nihal vavad
